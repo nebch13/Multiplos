@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiplos", "Multiplos\Multiplos.csproj", "{26557103-FF09-415B-93B0-7D7AC5B89E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplosTest", "MultiplosTest\MultiplosTest.csproj", "{F6C5C050-4FB8-4BBB-8236-B5BC4666B2CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26557103-FF09-415B-93B0-7D7AC5B89E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26557103-FF09-415B-93B0-7D7AC5B89E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26557103-FF09-415B-93B0-7D7AC5B89E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26557103-FF09-415B-93B0-7D7AC5B89E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C5C050-4FB8-4BBB-8236-B5BC4666B2CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C5C050-4FB8-4BBB-8236-B5BC4666B2CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C5C050-4FB8-4BBB-8236-B5BC4666B2CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C5C050-4FB8-4BBB-8236-B5BC4666B2CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
